@@ -1,0 +1,9 @@
+# Dependências
+node_modules/
+
+# Banco de dados local
+database.sqlite
+
+# Logs e arquivos de sistema
+*.log
+.DS_Store
